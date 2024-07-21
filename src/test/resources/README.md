@@ -10,6 +10,7 @@ This project is a Selenium-based automation framework designed to test the Openi
 - **src/main/java/generic**: Contains the base setup class and utility classes.
 - **src/test/java/test**: Contains the test classes for performing automation testing.
 - **src/test/resources**: Contains property files and other resources.
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/284c0903-0fd3-4d09-af98-63ad3f8309f1">
 
 ## Technologies and Tools Used
 
