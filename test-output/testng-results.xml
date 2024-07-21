@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-21T07:20:54Z" name="Default suite" finished-at="2024-07-21T07:22:04Z" duration-ms="69959">
+    <groups>
+    </groups>
+    <test started-at="2024-07-21T07:20:54Z" name="Default test" finished-at="2024-07-21T07:22:04Z" duration-ms="69959">
+      <class name="test.OpeninAppTest">
+        <test-method is-config="true" signature="reportGenarate()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:50:54Z" name="reportGenarate" finished-at="2024-07-21T12:50:54Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportGenarate -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:50:54Z" name="setUp" finished-at="2024-07-21T12:50:59Z" duration-ms="4758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initPageObjects()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:50:59Z" name="initPageObjects" finished-at="2024-07-21T12:50:59Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPageObjects -->
+        <test-method signature="signUp()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:50:59Z" name="signUp" finished-at="2024-07-21T12:51:40Z" duration-ms="41527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:51:40Z" name="teardown" finished-at="2024-07-21T12:51:41Z" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:51:41Z" name="setUp" finished-at="2024-07-21T12:51:43Z" duration-ms="2231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initPageObjects()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:51:43Z" name="initPageObjects" finished-at="2024-07-21T12:51:43Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPageObjects -->
+        <test-method signature="loginTest()[pri:1, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:51:43Z" name="loginTest" finished-at="2024-07-21T12:52:03Z" duration-ms="20232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:52:03Z" name="teardown" finished-at="2024-07-21T12:52:04Z" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:test.OpeninAppTest@481ba2cf]" started-at="2024-07-21T12:52:04Z" name="endTest" finished-at="2024-07-21T12:52:04Z" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- test.OpeninAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
